@@ -72,4 +72,4 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/infynow-softwares-frontend.git
+   git clone https://github.com/HarshalBichakar/Infynow_Software_Solution_Website.git
